@@ -1,6 +1,6 @@
-# Librespeed Homebrew Tap
+# LibreSpeed Homebrew Tap
 
-Taps are third-party repositories for Homebrew. This tap holds the official librespeed-cli formula.
+Taps are third-party repositories for Homebrew. This tap holds the official [librespeed-cli](https://github.com/librespeed/speedtest-cli) formula.
 
 ## Setup
 
