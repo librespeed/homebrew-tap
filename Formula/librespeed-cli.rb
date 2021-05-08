@@ -1,8 +1,8 @@
 class LibrespeedCli < Formula
   desc "Command-line client for LibreSpeed"
   homepage "https://github.com/librespeed/speedtest-cli"
-  url "https://github.com/librespeed/speedtest-cli/archive/v1.0.8.tar.gz"
-  sha256 "b3518b7046b40e90e648b84b264c7db4a31a819622f135e520afdbc8f8a7a861"
+  url "https://github.com/librespeed/speedtest-cli/archive/v1.0.9.tar.gz"
+  sha256 "121319345dd2e81dfe92cb667bf30a3ee87b2405c058007392332bded0ff9fca"
   head "https://github.com/librespeed/speedtest-cli.git"
 
   bottle :unneeded
