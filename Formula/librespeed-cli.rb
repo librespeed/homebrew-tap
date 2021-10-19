@@ -5,8 +5,6 @@ class LibrespeedCli < Formula
   sha256 "121319345dd2e81dfe92cb667bf30a3ee87b2405c058007392332bded0ff9fca"
   head "https://github.com/librespeed/speedtest-cli.git"
 
-  bottle :unneeded
-
   depends_on "go" => :build
 
   def install
