@@ -1,8 +1,8 @@
 class LibrespeedCli < Formula
   desc "Command-line client for LibreSpeed"
   homepage "https://github.com/librespeed/speedtest-cli"
-  url "https://github.com/librespeed/speedtest-cli/archive/v1.0.9.tar.gz"
-  sha256 "121319345dd2e81dfe92cb667bf30a3ee87b2405c058007392332bded0ff9fca"
+  url "https://github.com/librespeed/speedtest-cli/archive/v1.0.11.tar.gz"
+  sha256 "ad32c2379a7d1fc4160a27dbd81f681ad40c3d6d555010bb943528074ee982df"
   head "https://github.com/librespeed/speedtest-cli.git"
 
   depends_on "go" => :build
